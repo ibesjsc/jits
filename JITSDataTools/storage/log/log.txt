@@ -1,0 +1,576 @@
+Sep 20, 2018 9:31:53 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 9:33:34 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 10:41:25 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 10:47:03 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 10:49:36 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 10:53:53 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:12:11 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:12:45 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:25:25 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:38:55 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:39:12 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:39:34 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:40:06 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:41:40 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:42:57 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:43:36 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:44:29 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:45:09 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:46:50 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:47:49 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:49:02 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:52:33 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:53:16 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:53:30 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:53:59 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:54:20 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:55:08 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 20, 2018 11:57:31 PM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:00:53 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:01:53 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:02:39 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:02:58 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:24:09 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:28:26 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:56:04 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 12:59:09 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:02:34 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:03:45 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:07:57 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:14:41 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: For input string: "lat_start"
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:57 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:14:58 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:25 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:17:33 AM utilities.LogFile writeLog
+INFO: For input string: "lat_start"
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: 4
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:34 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:35 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:35 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:35 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:17:35 AM utilities.LogFile writeLog
+INFO: null
+Sep 21, 2018 1:18:11 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:19:37 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:20:30 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:27:56 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:29:22 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:29:53 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:30:06 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 21, 2018 1:37:01 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 12:35:23 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 12:41:03 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 12:42:22 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 12:45:34 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 12:48:17 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 12:49:26 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 12:50:05 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 1:22:40 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 1:24:28 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 1:25:43 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 1:31:09 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 1:32:19 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 1:34:02 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 22, 2018 1:37:31 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:12:28 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:15:24 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:18:52 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:19:56 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:21:51 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:23:12 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:25:20 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:26:03 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:27:07 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:29:13 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:30:18 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:31:03 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:32:48 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:40:07 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 2:55:54 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:00:12 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:01:20 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:07:45 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:10:38 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:13:06 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:14:48 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:23:52 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:42:55 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:43:16 AM utilities.LogFile writeLog
+INFO: Program is started
+Sep 24, 2018 3:50:14 PM utilities.LogFile writeLog
+INFO: Program is started

@@ -1,0 +1,10 @@
+E:\PhD-Research\Source-Code\DataTools\DataTools\bin\Debug\DataTools.exe.config
+E:\PhD-Research\Source-Code\DataTools\DataTools\bin\Debug\DataTools.exe
+E:\PhD-Research\Source-Code\DataTools\DataTools\bin\Debug\DataTools.pdb
+E:\PhD-Research\Source-Code\DataTools\DataTools\obj\Debug\DataTools.csprojResolveAssemblyReference.cache
+E:\PhD-Research\Source-Code\DataTools\DataTools\obj\Debug\DataTools.MainProg.resources
+E:\PhD-Research\Source-Code\DataTools\DataTools\obj\Debug\DataTools.Properties.Resources.resources
+E:\PhD-Research\Source-Code\DataTools\DataTools\obj\Debug\DataTools.csproj.GenerateResource.cache
+E:\PhD-Research\Source-Code\DataTools\DataTools\obj\Debug\DataTools.csproj.CoreCompileInputs.cache
+E:\PhD-Research\Source-Code\DataTools\DataTools\obj\Debug\DataTools.exe
+E:\PhD-Research\Source-Code\DataTools\DataTools\obj\Debug\DataTools.pdb
